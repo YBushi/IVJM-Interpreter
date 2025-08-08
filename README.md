@@ -1,1 +1,1 @@
-This repository contains my developed intreprete which executes IVJM bytecode.
+This repository contains my implmentation of an intrepreter which executes IVJM bytecode.
